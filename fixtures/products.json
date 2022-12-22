@@ -1,0 +1,98 @@
+[
+{
+    "model": "store.product",
+    "pk": 1,
+    "fields": {
+        "product_name": "Element M1 Sport Short",
+        "slug": "element-m1-sport-short",
+        "description": "Material: Umbrella\r\nComposition: 100% poly\r\n- Ottoman woven structure creates a smooth, non-hairy surface, does not cause skin irritation for the user.\r\n- Waterslide\r\n- High color fastness\r\n- Quick drying - Easy to wash\r\n- Flexible print pattern\r\n- User Manual:\r\n+ Should use mild or diluted detergents to avoid strong chemicals that will damage fabric quality.\r\n+ Should turn the product upside down when washing, do not use a brush too hard to rub strongly on the surface of the fabric.",
+        "price": 185,
+        "images": "photos/products/Element_M1_Sport_Short.jpg",
+        "stock": 100,
+        "is_available": true,
+        "category": 1,
+        "created_date": "2022-11-22T16:34:04.019Z",
+        "modified_date": "2022-11-22T16:51:22.501Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 2,
+    "fields": {
+        "product_name": "M12 Sport Short",
+        "slug": "m12-sport-short",
+        "description": "Sports Shorts M12\r\nMaterial: Umbrella\r\nComposition: 92% Polyester 8% spandex\r\n- UV Protection\r\n- Dry fast\r\n- Water slide (Water can seep through zippers, seams)\r\n- Durable\r\n+ Texture of pressed label",
+        "price": 143,
+        "images": "photos/products/M12_Sport_Short.jpg",
+        "stock": 2,
+        "is_available": true,
+        "category": 1,
+        "created_date": "2022-11-22T16:37:10.091Z",
+        "modified_date": "2022-11-22T16:50:51.395Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 3,
+    "fields": {
+        "product_name": "M24 Sport Shirt",
+        "slug": "m24-sport-shirt",
+        "description": "M24 Sports Round Neck T-shirt\r\nMaterial: Poly Freshgear fabric\r\nComposition: 85% polyester 15% spandex\r\n- Sustainable fabric construction\r\n- Anti-wrinkle, good elasticity\r\n- Breathable, lightweight, good absorbency\r\n- Elastane ingredient neutralizes odors\r\n- Comfortable for outdoor activities\r\n+ Pattern sewn patch",
+        "price": 159,
+        "images": "photos/products/M24_Sport_Shirt.jpg",
+        "stock": 0,
+        "is_available": true,
+        "category": 1,
+        "created_date": "2022-11-22T16:38:50.052Z",
+        "modified_date": "2022-11-22T16:50:43.406Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 4,
+    "fields": {
+        "product_name": "M31 Sport Shirt",
+        "slug": "m31-sport-shirt",
+        "description": "M31 Sports Round Neck T-shirt\r\nMaterial: Nylon Fabric\r\nComposition: 84% Nylon 16% Spandex\r\n- Soft\r\n- Fresh air\r\n- Dry fast\r\n- Light-weight\r\n- Cooling body\r\n- Elasticity\r\n- Good elasticity\r\n+ Texture of pressed label",
+        "price": 287,
+        "images": "photos/products/M31_Sport_Shirt.jpg",
+        "stock": 3,
+        "is_available": true,
+        "category": 1,
+        "created_date": "2022-11-22T16:39:29.354Z",
+        "modified_date": "2022-11-22T16:50:34.794Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 5,
+    "fields": {
+        "product_name": "Space Ver30",
+        "slug": "space-ver30",
+        "description": "Space Ver30 1 Space Ver30 1 Space Ver30 1 Space Ver30 1",
+        "price": 123,
+        "images": "photos/products/Space_Ver30_1.jpg",
+        "stock": 5,
+        "is_available": true,
+        "category": 2,
+        "created_date": "2022-11-22T20:10:05.778Z",
+        "modified_date": "2022-11-22T20:10:05.778Z"
+    }
+},
+{
+    "model": "store.product",
+    "pk": 6,
+    "fields": {
+        "product_name": "Space Ver14",
+        "slug": "space-ver14",
+        "description": "Space Ver14 Space Ver14 Space Ver14 Space Ver14 Space Ver14 Space Ver14 Space Ver14",
+        "price": 121,
+        "images": "photos/products/Space_Ver14.jpg",
+        "stock": 3,
+        "is_available": true,
+        "category": 2,
+        "created_date": "2022-11-22T20:11:00.189Z",
+        "modified_date": "2022-11-22T20:11:00.189Z"
+    }
+}
+]

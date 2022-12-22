@@ -1,0 +1,28 @@
+[
+{
+    "model": "accounts.userprofile",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "address_line_1": null,
+        "address_line_2": null,
+        "profile_picture": "userprofile/300-9.jpg",
+        "city": null,
+        "state": null,
+        "country": null
+    }
+},
+{
+    "model": "accounts.userprofile",
+    "pk": 23,
+    "fields": {
+        "user": 31,
+        "address_line_1": "1 Pham Hong Thai Q9",
+        "address_line_2": null,
+        "profile_picture": "userprofile/300-1.jpg",
+        "city": "Thu Duc",
+        "state": "123123",
+        "country": "Viet Nam"
+    }
+}
+]

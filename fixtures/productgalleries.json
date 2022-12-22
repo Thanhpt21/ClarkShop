@@ -1,0 +1,106 @@
+[
+{
+    "model": "store.productgallery",
+    "pk": 1,
+    "fields": {
+        "product": 1,
+        "image": "store/products/Element_M1_Sport_Short_1.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 2,
+    "fields": {
+        "product": 1,
+        "image": "store/products/Element_M1_Sport_Short_2.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 3,
+    "fields": {
+        "product": 2,
+        "image": "store/products/M12_Sport_Short_1.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 4,
+    "fields": {
+        "product": 2,
+        "image": "store/products/M12_Sport_Short_2.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 5,
+    "fields": {
+        "product": 2,
+        "image": "store/products/M12_Sport_Short_3.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 6,
+    "fields": {
+        "product": 2,
+        "image": "store/products/M12_Sport_Short_4.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 7,
+    "fields": {
+        "product": 3,
+        "image": "store/products/M24_Sport_Shirt_1.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 8,
+    "fields": {
+        "product": 4,
+        "image": "store/products/M31_Sport_Shirt_1.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 9,
+    "fields": {
+        "product": 5,
+        "image": "store/products/Space_Ver30_3.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 10,
+    "fields": {
+        "product": 5,
+        "image": "store/products/Space_Ver30_2.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 11,
+    "fields": {
+        "product": 6,
+        "image": "store/products/Space_Ver14_3.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 12,
+    "fields": {
+        "product": 6,
+        "image": "store/products/Space_Ver14_2.jpg"
+    }
+},
+{
+    "model": "store.productgallery",
+    "pk": 13,
+    "fields": {
+        "product": 6,
+        "image": "store/products/Space_Ver14_1.jpg"
+    }
+}
+]

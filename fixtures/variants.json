@@ -1,0 +1,189 @@
+[
+{
+    "model": "store.variation",
+    "pk": 1,
+    "fields": {
+        "product": 1,
+        "variation_category": "color",
+        "variation_value": "Black",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:06.521Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 2,
+    "fields": {
+        "product": 1,
+        "variation_category": "size",
+        "variation_value": "S",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:12.498Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 3,
+    "fields": {
+        "product": 1,
+        "variation_category": "size",
+        "variation_value": "M",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:17.843Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 4,
+    "fields": {
+        "product": 1,
+        "variation_category": "size",
+        "variation_value": "L",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:24.658Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 5,
+    "fields": {
+        "product": 1,
+        "variation_category": "size",
+        "variation_value": "XL",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:30.819Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 6,
+    "fields": {
+        "product": 2,
+        "variation_category": "color",
+        "variation_value": "Black",
+        "is_active": true,
+        "created_date": "2022-11-22T16:42:57.223Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 7,
+    "fields": {
+        "product": 2,
+        "variation_category": "size",
+        "variation_value": "S",
+        "is_active": true,
+        "created_date": "2022-11-22T16:43:33.125Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 8,
+    "fields": {
+        "product": 2,
+        "variation_category": "size",
+        "variation_value": "M",
+        "is_active": true,
+        "created_date": "2022-11-22T16:43:40.729Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 9,
+    "fields": {
+        "product": 2,
+        "variation_category": "size",
+        "variation_value": "L",
+        "is_active": true,
+        "created_date": "2022-11-22T16:43:45.772Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 10,
+    "fields": {
+        "product": 3,
+        "variation_category": "color",
+        "variation_value": "Gray",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:03.869Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 11,
+    "fields": {
+        "product": 3,
+        "variation_category": "size",
+        "variation_value": "S",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:13.100Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 12,
+    "fields": {
+        "product": 3,
+        "variation_category": "size",
+        "variation_value": "M",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:19.923Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 13,
+    "fields": {
+        "product": 3,
+        "variation_category": "size",
+        "variation_value": "L",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:26.527Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 14,
+    "fields": {
+        "product": 3,
+        "variation_category": "size",
+        "variation_value": "XL",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:32.430Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 15,
+    "fields": {
+        "product": 4,
+        "variation_category": "color",
+        "variation_value": "Black",
+        "is_active": true,
+        "created_date": "2022-11-22T16:44:59.748Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 16,
+    "fields": {
+        "product": 4,
+        "variation_category": "size",
+        "variation_value": "S",
+        "is_active": true,
+        "created_date": "2022-11-22T16:45:06.742Z"
+    }
+},
+{
+    "model": "store.variation",
+    "pk": 17,
+    "fields": {
+        "product": 4,
+        "variation_category": "size",
+        "variation_value": "L",
+        "is_active": true,
+        "created_date": "2022-11-22T16:45:20.101Z"
+    }
+}
+]

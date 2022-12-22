@@ -1,0 +1,82 @@
+[
+{
+    "model": "category.category",
+    "pk": 1,
+    "fields": {
+        "category_name": "Sport Item",
+        "slug": "sport-item",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 2,
+    "fields": {
+        "category_name": "T-shirt",
+        "slug": "t-shirt",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 3,
+    "fields": {
+        "category_name": "Shirt",
+        "slug": "shirt",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 4,
+    "fields": {
+        "category_name": "Trousers",
+        "slug": "trousers",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 5,
+    "fields": {
+        "category_name": "shorts",
+        "slug": "shorts",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 6,
+    "fields": {
+        "category_name": "Backpack",
+        "slug": "backpack",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 7,
+    "fields": {
+        "category_name": "Shoes",
+        "slug": "shoes",
+        "description": "",
+        "cat_image": ""
+    }
+},
+{
+    "model": "category.category",
+    "pk": 8,
+    "fields": {
+        "category_name": "Sandals",
+        "slug": "sandals",
+        "description": "",
+        "cat_image": ""
+    }
+}
+]
